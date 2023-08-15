@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace DungeonRoguelikeGame
 {
-    internal class Program
+    internal class Floor : GameObject
     {
-        static void Main(string[] args)
+        public Floor() : base(ConsoleColor.White, '*')
         {
-            Room room = new Room();
-            room.DrawRoom();
+
         }
     }
 }

@@ -1,0 +1,8 @@
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\bin\Debug\DungeonRoguelikeGame.exe.config
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\bin\Debug\DungeonRoguelikeGame.exe
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\bin\Debug\DungeonRoguelikeGame.pdb
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\obj\Debug\DungeonRoguelikeGame.csproj.AssemblyReference.cache
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\obj\Debug\DungeonRoguelikeGame.csproj.SuggestedBindingRedirects.cache
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\obj\Debug\DungeonRoguelikeGame.csproj.CoreCompileInputs.cache
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\obj\Debug\DungeonRoguelikeGame.exe
+D:\GitHubRep\DungeonRoguelike\DungeonRoguelikeGame\DungeonRoguelikeGame\obj\Debug\DungeonRoguelikeGame.pdb
